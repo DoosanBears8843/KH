@@ -234,5 +234,5 @@ async def 목록초기화(ctx):
     except:
         await ctx.send("아직 아무노래도 등록하지 않았어요.")
 
-bot.run('ODI2MDgyODAwNDczMjEwODkz.YGHTjw.GZ8MGiEX6mnIGzfgt2qdpk4sXWE')
+bot.run('ODI2MDgyODAwNDczMjEwODkz.YGHTjw.zJ18FQi2-x_Z1KCFw70iIquWtk0')
 
